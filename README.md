@@ -17,13 +17,15 @@ Visual components and Python
 
 
 ## Experiment:
+![image](https://github.com/user-attachments/assets/e6bd9219-95b4-424b-9c18-b9dc3d209db0)
+
 
 
 ## Program
 
 ```c
-Name: Janani Gowrisankar
-Register number : 24009971
+Developed by: SRILAKSHMI BH
+Register no: 212224100057
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
@@ -64,6 +66,7 @@ else:
 print("----------------------------------------------------------------------")
 ```
 ## Output
+![image](https://github.com/user-attachments/assets/af245c0b-e87f-4fb4-89b5-17d0999d4a10)
 
 
 ## Result
